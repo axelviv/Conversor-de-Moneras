@@ -13,6 +13,20 @@ public class Monedas {
         pesoCol = monedas.COP();
     }
 
+
+    public double getPesoArg() {
+        return pesoArg;
+    }
+
+    public double getRealBr() {
+        return realBr;
+    }
+
+    public double getPesoCol() {
+        return pesoCol;
+    }
+
+
     public double usdToArg(double valor){
         double conversion = valor * pesoArg;
         return conversion;
@@ -43,15 +57,5 @@ public class Monedas {
         return conversion;
     }
 
-    public double getPesoArg() {
-        return pesoArg;
-    }
 
-    public double getRealBr() {
-        return realBr;
-    }
-
-    public double getPesoCol() {
-        return pesoCol;
-    }
 }
