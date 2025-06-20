@@ -14,13 +14,14 @@ Aplicación Java que permite convertir montos entre distintas monedas utilizando
 - Java 17+
 - API ExchangeRate (https://www.exchangerate-api.com)
 - Gson para parseo de JSON
+- Postman para pruebas de endpoints
 - IntelliJ IDEA como entorno de desarrollo
 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Gson](https://img.shields.io/badge/Gson-232F3E?style=for-the-badge&logo=google&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
+![Gson](https://img.shields.io/badge/Gson-232F3E?style=for-the-badge&logo=google&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 📌 Ejemplo de uso
 
